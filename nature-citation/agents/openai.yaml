@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术引用匹配"
+  short_description: "为论文 claim 检索、分级并导出可靠引用"
+  default_prompt: "使用 $nature-citation 为这段论文文字匹配并核验引用，按支撑强度分级，默认用中文报告。"
